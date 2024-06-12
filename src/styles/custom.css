@@ -1,0 +1,13 @@
+/** Custom Styles **/
+
+.card-grid {
+  background-color: #ff0000;
+  display: flex;
+	gap: 5rem;
+}
+
+.neutral-badge {
+	border-color: var(--sl-color-gray-5);
+	background-color: var(--sl-color-gray-6);
+	color: var(--sl-color-text);
+}
